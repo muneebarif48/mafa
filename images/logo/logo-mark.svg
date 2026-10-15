@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" aria-hidden="true">
+  <!-- Architectural Rectangular Frame -->
+  <rect x="5" y="5" width="38" height="38" rx="3" fill="none" stroke="#C6D64B" stroke-width="2" opacity="0.95"/>
+  
+  <!-- Geometric Arched M Mark -->
+  <path d="M 13 36 V 20 A 5.5 5.5 0 0 1 24 20 V 36 M 24 20 A 5.5 5.5 0 0 1 35 20 V 36" 
+        fill="none" 
+        stroke="#C6D64B" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>

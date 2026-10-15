@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#521F50"/>
+      <stop offset="100%" stop-color="#34123A"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Badge -->
+  <rect width="64" height="64" rx="14" fill="url(#bgGrad)"/>
+  
+  <!-- Architectural Rectangular Frame -->
+  <rect x="9" y="9" width="46" height="46" rx="3" fill="none" stroke="#C6D64B" stroke-width="2" opacity="0.95"/>
+  
+  <!-- Arched M Mark -->
+  <path d="M 18 45 V 27 A 7 7 0 0 1 32 27 V 45 M 32 27 A 7 7 0 0 1 46 27 V 45" 
+        fill="none" 
+        stroke="#C6D64B" 
+        stroke-width="3.5" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>

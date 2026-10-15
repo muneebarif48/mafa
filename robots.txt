@@ -1,0 +1,8 @@
+# robots.txt for MAFA AMAZING PEACE LTD
+# https://www.mafaamazingpeace.co.uk/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.mafaamazingpeace.co.uk/sitemap.xml
